@@ -725,7 +725,103 @@
           "oiSrc": "天玑全合约"
         }
       ]
+    },
+    "2026-10-09": {
+      "asof": "2026-10-09",
+      "rows": [
+        {
+          "name": "豆油",
+          "code": "Y",
+          "date": "2026-10-08",
+          "price": 8906.0,
+          "pricePrev": 8972.0,
+          "vol": 222926.0,
+          "volPrev": 220858.0,
+          "oiDate": "2026-10-09",
+          "oi": 586307,
+          "oiPrev": null,
+          "oiSrc": "Sina主力"
+        },
+        {
+          "name": "棕榈",
+          "code": "P",
+          "date": "2026-10-08",
+          "price": 9509.0,
+          "pricePrev": 9581.0,
+          "vol": 404306.0,
+          "volPrev": 373884.0,
+          "oiDate": "2026-10-09",
+          "oi": 402614,
+          "oiPrev": null,
+          "oiSrc": "Sina主力"
+        },
+        {
+          "name": "菜油",
+          "code": "OI",
+          "date": "2026-10-08",
+          "price": 10250.0,
+          "pricePrev": 10230.0,
+          "vol": 169337.0,
+          "volPrev": 272992.0,
+          "oiDate": "2026-10-08",
+          "oi": 535656,
+          "oiPrev": 519357,
+          "oiSrc": "天玑全合约"
+        },
+        {
+          "name": "豆粕",
+          "code": "M",
+          "date": "2026-10-08",
+          "price": 3366.0,
+          "pricePrev": 3372.0,
+          "vol": 967353.0,
+          "volPrev": 845761.0,
+          "oiDate": "2026-10-09",
+          "oi": 1459391,
+          "oiPrev": null,
+          "oiSrc": "Sina主力"
+        },
+        {
+          "name": "菜粕",
+          "code": "RM",
+          "date": "2026-10-08",
+          "price": 2332.0,
+          "pricePrev": 2333.0,
+          "vol": 406731.0,
+          "volPrev": 371584.0,
+          "oiDate": "2026-10-08",
+          "oi": 1192960,
+          "oiPrev": 1216259,
+          "oiSrc": "天玑全合约"
+        },
+        {
+          "name": "鸡蛋",
+          "code": "JD",
+          "date": "2026-10-08",
+          "price": 3731.0,
+          "pricePrev": 3715.0,
+          "vol": 111857.0,
+          "volPrev": 187561.0,
+          "oiDate": "2026-10-09",
+          "oi": 177658,
+          "oiPrev": null,
+          "oiSrc": "Sina主力"
+        },
+        {
+          "name": "生猪",
+          "code": "LH",
+          "date": "2026-10-08",
+          "price": 11105.0,
+          "pricePrev": 10680.0,
+          "vol": 70197.0,
+          "volPrev": 124980.0,
+          "oiDate": "2026-10-08",
+          "oi": 472689,
+          "oiPrev": 469257,
+          "oiSrc": "天玑全合约"
+        }
+      ]
     }
   },
-  "updated": "2026-10-09 08:55:34"
+  "updated": "2026-10-09 15:46:12"
 }
