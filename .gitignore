@@ -1,1 +1,5 @@
 state_*.json
+# 合约清单缓存（回补用，无需发布）
+_vol_contracts.json
+# 成交量历史回写前的备份
+vol_oi.json.bak
