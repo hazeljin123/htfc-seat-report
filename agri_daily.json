@@ -2160,7 +2160,110 @@
           "oiSrc": "东财全合约"
         }
       ]
+    },
+    "2026-10-30": {
+      "asof": "2026-10-30",
+      "rows": [
+        {
+          "name": "豆油",
+          "code": "Y",
+          "date": "2026-10-30",
+          "price": 8969.0,
+          "pricePrev": null,
+          "vol": 362780,
+          "volPrev": 483762,
+          "volSrc": "东财全合约",
+          "oiDate": "2026-10-30",
+          "oi": 1167060,
+          "oiPrev": 1169802,
+          "oiSrc": "东财全合约"
+        },
+        {
+          "name": "棕榈",
+          "code": "P",
+          "date": "2026-10-30",
+          "price": 9214.0,
+          "pricePrev": null,
+          "vol": 590641,
+          "volPrev": 947192,
+          "volSrc": "东财全合约",
+          "oiDate": "2026-10-30",
+          "oi": 1104132,
+          "oiPrev": 1142389,
+          "oiSrc": "东财全合约"
+        },
+        {
+          "name": "菜油",
+          "code": "OI",
+          "date": "2026-10-30",
+          "price": 10295.0,
+          "pricePrev": null,
+          "vol": 364463,
+          "volPrev": 326895,
+          "volSrc": "东财全合约",
+          "oiDate": "2026-10-30",
+          "oi": 572163,
+          "oiPrev": 543613,
+          "oiSrc": "东财全合约"
+        },
+        {
+          "name": "豆粕",
+          "code": "M",
+          "date": "2026-10-30",
+          "price": 3175.0,
+          "pricePrev": null,
+          "vol": 1330182,
+          "volPrev": 1381123,
+          "volSrc": "东财全合约",
+          "oiDate": "2026-10-30",
+          "oi": 4471082,
+          "oiPrev": 4493200,
+          "oiSrc": "东财全合约"
+        },
+        {
+          "name": "菜粕",
+          "code": "RM",
+          "date": "2026-10-30",
+          "price": 2239.0,
+          "pricePrev": null,
+          "vol": 760674,
+          "volPrev": 707116,
+          "volSrc": "东财全合约",
+          "oiDate": "2026-10-30",
+          "oi": 1086434,
+          "oiPrev": 1093747,
+          "oiSrc": "东财全合约"
+        },
+        {
+          "name": "鸡蛋",
+          "code": "JD",
+          "date": "2026-10-30",
+          "price": 3432.0,
+          "pricePrev": null,
+          "vol": 797264,
+          "volPrev": 631378,
+          "volSrc": "东财全合约",
+          "oiDate": "2026-10-30",
+          "oi": 561426,
+          "oiPrev": 589518,
+          "oiSrc": "东财全合约"
+        },
+        {
+          "name": "生猪",
+          "code": "LH",
+          "date": "2026-10-30",
+          "price": 9531.0,
+          "pricePrev": null,
+          "vol": 337756,
+          "volPrev": 267385,
+          "volSrc": "东财全合约",
+          "oiDate": "2026-10-30",
+          "oi": 450003,
+          "oiPrev": 455611,
+          "oiSrc": "东财全合约"
+        }
+      ]
     }
   },
-  "updated": "2026-10-29 15:45:52"
+  "updated": "2026-10-30 15:46:21"
 }
